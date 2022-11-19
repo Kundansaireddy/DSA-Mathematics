@@ -1,4 +1,6 @@
 public class CheckPrime {
+    
+    
     public static void main(String[] args) {
         int n = 13;
         System.out.println(prime(n));
